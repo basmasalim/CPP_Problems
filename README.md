@@ -19,7 +19,7 @@ Each section contains categorized problems with their solutions.
 
 ## 🔹 Codeforces - Mastering C++ Training
 ### Sheet #1 (Data type - Conditions)
-* [Reverse Integer](https://oj.leetcode.com/problems/reverse-integer/) - [Solution]()
+* [A. Say Hello With_C++](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/A) - [Solution](https://github.com/basmasalim/CPP_Problems/blob/a2d33503b3986d8d0665a70a9c979c466f821ffb/Level-1/1-Introduction_To_C%2B%2B/ICPC_Assiut_University_Community/Sheet-1(Data%20type-Conditions)/A.%20Say%20Hello%20With_C%2B%2B/main.cpp)
 
 
 
