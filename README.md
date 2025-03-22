@@ -43,6 +43,9 @@ Each section contains categorized problems with their solutions.
 * [V. Comparison](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/V)
 * [W. Mathematical Expression](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/W)
 * [X. Two intervals](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/X)
+* [Y. The last 2 digits](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Y)
+* [Y. The last 2 digits](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Y)
+* [Z. Hard Compare](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Z)
 
 
 ## 🔹 IPCI FCI ZU Training
