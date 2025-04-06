@@ -65,6 +65,13 @@ This repository contains my solutions for the following competitive programming 
 * [F. Amer and summation](https://codeforces.com/group/zu3FIvIAXh/contest/233324/problem/F)
 * [G. Amer and Party](https://codeforces.com/group/zu3FIvIAXh/contest/233324/problem/G)
 
+##### 🔹Conditions
+* [A. A student and numbers](https://codeforces.com/group/zu3FIvIAXh/contest/233723/problem/A)
+* [B. Amer and Triangle](https://codeforces.com/group/zu3FIvIAXh/contest/233723/problem/B)
+* [C. Amer and Candy](https://codeforces.com/group/zu3FIvIAXh/contest/233723/problem/C)
+* [D. Candy bags](https://codeforces.com/group/zu3FIvIAXh/contest/233723/problem/D)
+* [E. i- Amnesia](https://codeforces.com/group/zu3FIvIAXh/contest/233723/problem/E)
+* [F. ii- Amnesia](https://codeforces.com/group/zu3FIvIAXh/contest/233723/problem/F)
 
 
 ## 🤝 Contributing
