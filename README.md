@@ -13,8 +13,8 @@ This repository contains my solutions for the following competitive programming 
 
 
 ## 🎯 Codeforces - Mastering C++ Training
-### 🔵 Level 1
-#### 🔹 Sheet #1 (Data type - Conditions)
+### 🟢 ICPC_Assiut_University_Community
+#### 🔹Sheet #1 (Data type - Conditions)
 * [A. Say Hello With_C++](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/A)
 * [B. Basic Data Types](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/B)
 * [C. Simple Calculator](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/C) 
@@ -43,10 +43,27 @@ This repository contains my solutions for the following competitive programming 
 * [Y. The last 2 digits](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Y)
 * [Z. Hard Compare](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Z)
 
+#### 🔹Contest #1
+* [A. Winter Sale](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/A)
+* [B. Memo and Momo](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/B)
+* [C. Next Alphabet](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/C)
+* [D. Ali Baba and Puzzles](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/D)
+* [E - Interval Sweep](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/E)
+* [F. Adding Bits](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/F)
+* [G. Katryoshka](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/G)
+* [H. Data Type Guessing](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/H)
+* [I. Lucky Numbers](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/I)
 
-### 🔹 IPCI FCI ZU Training
-#### Introduction To C++
 
+### 🟢 IPCI FCI ZU Training
+#### 🔵 Level 1
+##### 🔹Introduction To C++
+* [A. delicious-meal](https://codeforces.com/group/zu3FIvIAXh/contest/233324/problem/A)
+* [B. Amer and polygon](https://codeforces.com/group/zu3FIvIAXh/contest/233324/problem/B)
+* [D. Kero's Triangle](https://codeforces.com/group/zu3FIvIAXh/contest/233324/problem/D)
+* [E. Give me cents](https://codeforces.com/group/zu3FIvIAXh/contest/233324/problem/E)
+* [F. Amer and summation](https://codeforces.com/group/zu3FIvIAXh/contest/233324/problem/F)
+* [G. Amer and Party](https://codeforces.com/group/zu3FIvIAXh/contest/233324/problem/G)
 
 
 
