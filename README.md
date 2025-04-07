@@ -73,6 +73,14 @@ This repository contains my solutions for the following competitive programming 
 * [E. i- Amnesia](https://codeforces.com/group/zu3FIvIAXh/contest/233723/problem/E)
 * [F. ii- Amnesia](https://codeforces.com/group/zu3FIvIAXh/contest/233723/problem/F)
 
+##### 🔹Loops
+* [A. Amer and Summation 2](https://codeforces.com/group/zu3FIvIAXh/contest/234221/problem/A)
+* [B. Amer and Divisors](https://codeforces.com/group/zu3FIvIAXh/contest/234221/problem/B)
+* [C. Amer and Equality](https://codeforces.com/group/zu3FIvIAXh/contest/234221/problem/C)
+* [D. Prime?](https://codeforces.com/group/zu3FIvIAXh/contest/234221/problem/D)
+* [E. Print Reverse](https://codeforces.com/group/zu3FIvIAXh/contest/234221/problem/E)
+* [F. Ehab and another construction problem](https://codeforces.com/group/zu3FIvIAXh/contest/234221/problem/F)
+
 
 ## 🤝 Contributing
 If you have a better solution or a more optimized approach, feel free to submit **issues or pull requests**. Let's improve together! 🚀  
